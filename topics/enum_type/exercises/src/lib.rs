@@ -5,3 +5,4 @@ pub enum Color {
     Blue,
     Rgba(u8, u8, u8, f32),
 }
+ // enum exercise done 
